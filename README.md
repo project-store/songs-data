@@ -24,4 +24,4 @@
 这些脚本方便你把数据均导入到mysql数据库
 
 我做一个在线听歌的小站
-使用手机访问效果更好 <http://babysongs.sinaapp.com/>
+使用手机访问效果更好 <http://dearbaobao.sinaapp.com/>
